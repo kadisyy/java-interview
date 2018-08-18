@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="interview"
+  id="myeclipse.1447206275423"
+  context-root="/interview"
+  j2ee-spec="6.0"
+  archive="interview.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
